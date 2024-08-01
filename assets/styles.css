@@ -1,0 +1,44 @@
+body {
+    background-color: #f8f9fa;
+    font-family: 'Bangers', sans-serif;
+}
+
+h1 {
+    color: #343a40;
+}
+
+.navbar {
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background: linear-gradient(to right, #f8f9fa, #e9ecef);
+}
+
+.card-title {
+    font-size: 1.5rem;
+    color: #007bff;
+}
+
+.card-text {
+    color: #343a40;
+    font-size: 1rem;
+}
+
+.card img {
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    object-fit: cover;
+}
+
+.form-label {
+    font-weight: bold;
+}
+
+#hero-chart-container {
+    margin-top: 20px;
+}

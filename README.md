@@ -30,4 +30,3 @@ Esta aplicación web permite buscar información sobre superhéroes utilizando l
    ```
 
 3. Abre `index.html` en tu navegador para ver la aplicación.
-```
